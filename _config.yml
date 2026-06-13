@@ -1,0 +1,27 @@
+title: docs
+description: ドキュメントを溜めていくリポジトリ
+url: https://vb-yuasa.github.io
+baseurl: /docs
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+color_scheme: light
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  GitHub:
+    - https://github.com/vb-yuasa/docs
+
+footer_content: '<a href="https://github.com/vb-yuasa/docs">vb-yuasa/docs</a>'
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

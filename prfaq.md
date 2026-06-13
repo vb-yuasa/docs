@@ -1,4 +1,10 @@
+---
+title: PRFAQ ガイド
+nav_order: 1
+---
+
 # PRFAQ (Press Release / FAQ) ガイド
+{: .no_toc }
 
 Amazon の **Working Backwards** 手法の中核成果物である PRFAQ について、汎用的にまとめた解説。
 新機能/新製品/新サービスの企画初期に、設計や実装よりも前に「顧客視点で何が嬉しいのか」を文章で固めるためのフォーマット。
